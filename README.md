@@ -1,9 +1,8 @@
-# Deep Reinforcement Learning
-
 Jelena Kocic
+
 July 2018.
 
-Deep Reinforcement Learning
+# Deep Reinforcement Learning
 
 ### Content:
 1. Introduction to Deep Reinforcement Learning
