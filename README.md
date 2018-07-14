@@ -1,6 +1,4 @@
-Jelena Kocic
-
-July 2018.
+Jelena Kocic, July 2018.
 
 # Deep Reinforcement Learning
 
@@ -12,7 +10,7 @@ July 2018.
 
 
 
-## Introduction to Deep Reinforcement Learning
+## 1. Introduction to Deep Reinforcement Learning
 
 1. Welcome to Deep Reinforcement Learning
 2. Study Plan
@@ -27,7 +25,7 @@ July 2018.
 
 
 
-### 5. The RL Framework: The Solution
+### 1.5. The RL Framework: The Solution
 
 Interpret the Policy
 A policy determines how an agent chooses an action in response to the current state. In other words, it specifies how the agent responds to situations that the environment has presented.
