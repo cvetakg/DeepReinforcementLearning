@@ -22,8 +22,13 @@ Machine learning paradigms:
 - Unsupervised Learning
 - Reinforcement Learning
 
+### Reinforcement Learning vs Supervised Learning
+
+Reinforcement learning is different from supervised learning in the sense that there are no labels in advance to tune the parameters of the model. The model learns from the rewards received from the runs. Although the short-term rewards are available instantly, long-term rewards are only available after a couple of steps. This is also known as delayed feedback.
 
 ### Reinforcement Learning vs Unsupervised Learning
+
+Reinforcement learning is also different from unsupervised learning because in unsupervised learning there are no labels available, whereas in reinforcement learning the feedback is available in terms of the rewards.
 
 Unsupervised learning mainly deals with finding structure in data.
 
