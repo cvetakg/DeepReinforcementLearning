@@ -4,15 +4,16 @@ Jelena Kocic, July 2018.
 
 ### Content:
 
-0. Before we start, some important notes
-1. Introduction to Deep Reinforcement Learning
+1. Introduction 
 2. Value-Based Models
 3. Policy-Based Methods
 4. Multi-Agent Reinforcement Learning
 
 
 
-## 0. Before we start, some important notes
+## Introduction
+
+Reinforcement Learning is a form of learning in which a software agent observes the environment and takes actions to maximize its rewards from the environment.
 
 Machine learning paradigms:
 - Supervised Learning
@@ -30,7 +31,7 @@ Reinforcement learning is different from unsupervised learning, which is typical
 
 
 
-## 1. Introduction to Deep Reinforcement Learning
+### 1. Introduction to Deep Reinforcement Learning
 
 1. Welcome to Deep Reinforcement Learning
 2. Study Plan
@@ -45,7 +46,7 @@ Reinforcement learning is different from unsupervised learning, which is typical
 
 
 
-### 1.5. The RL Framework: The Solution
+#### 1.5. The RL Framework: The Solution
 
 Interpret the Policy
 A policy determines how an agent chooses an action in response to the current state. In other words, it specifies how the agent responds to situations that the environment has presented.
