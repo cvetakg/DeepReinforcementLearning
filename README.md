@@ -15,7 +15,7 @@ Jelena Kocic, July 2018.
 
 Reinforcement Learning is a form of learning in which a software agent observes the environment and takes actions to maximize its rewards from the environment.
 
-![](RL.PNG)
+![](RL.png)
 
 Machine learning paradigms:
 - Supervised Learning
