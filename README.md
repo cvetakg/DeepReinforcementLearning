@@ -2,14 +2,6 @@ Jelena Kocic, July 2018.
 
 # Deep Reinforcement Learning
 
-### Content:
-
-1. Introduction 
-2. Value-Based Models
-3. Policy-Based Methods
-4. Multi-Agent Reinforcement Learning
-
-
 
 ## Introduction
 
@@ -18,9 +10,9 @@ Reinforcement Learning is a form of learning in which a software agent observes 
 ![](RL.png)
 
 Machine learning paradigms:
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
+- Supervised Learning: y=f(x)
+- Unsupervised Learning: f(x)
+- Reinforcement Learning: y=f(x), z
 
 #### Reinforcement Learning vs Supervised Learning
 
