@@ -98,16 +98,25 @@ dsadas
 ### 3.2. Value-Based Methods
 
 #### Navigation
-(Use NN to train an agent that learns intelligent behaviors from sensory data.)
+*(Use NN to train an agent that learns intelligent behaviors from sensory data.)*
 
 ### 3.3. Policy-Based Methods
 
 #### Continuous Control
-(Train a robotic arm to reach target locations, or train a four-legged virtual creature to walk.)
+*(Train a robotic arm to reach target locations, or train a four-legged virtual creature to walk.)*
 
 dsadas
 
 ### 3.4. Multi-Agent Reinforcement Learning
 
 #### Collaboration and Competition
-(Train a system of agents to demonstrate collaboration or cooperation on a complex task.)
+*(Train a system of agents to demonstrate collaboration or cooperation on a complex task.)*
+
+Multi-agent communication:
+
+Communication lats the foundation for multi-agent cooperation, e.g.:
+- Intelligent Transportation Systems
+- Autonomous Driving
+- Moba Game
+
+![](rl1.png)
