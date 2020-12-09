@@ -1,4 +1,6 @@
-Jelena Kocic, July 2018.
+Author: Jelena Kocic, July 2018.
+
+*Learning resources: RL Course by David Silver-DeepMind, Udacity-DRLND, arXiv, booxs and many others*
 
 # Deep Reinforcement Learning
 
@@ -26,14 +28,61 @@ Unsupervised learning mainly deals with finding structure in data.
 
 Reinforcement learning use an agent that knows if a move is good or bad, by the reward it gets. A bad action in a particular state will have less reward than a good action. 
 
-Reinforcement learning is different from unsupervised learning, which is typically about finding structure hidden in collections of unlabeled data. The terms supervised learning and unsupervised learning would seem to exhaustively classify machine learning paradigms, but they do not. Although one might be tempted to think of reinforcement learning as a kind of unsupervised learning because it does not rely on examples of correct behavior, reinforcement learning is trying to maximize a reward signal instead of trying to find hidden structure. Uncovering structure in an agent's experience can certainly be useful in reinforcement learning, but by itself does not address the reinforcement learning problem of maximizing a reward signal. We therefore consider reinforcement learning to be a third machine learning paradigm, alongside supervised learning and unsupervised learning and perhaps other paradigms.
+Reinforcement learning is different from unsupervised learning, which is typically about finding structure hidden in collections of unlabeled data. The terms supervised learning and unsupervised learning would seem to exhaustively classify machine learning paradigms, but they do not. *Although one might be tempted to think of reinforcement learning as a kind of unsupervised learning because it does not rely on examples of correct behavior, reinforcement learning is trying to maximize a reward signal instead of trying to find hidden structure.* Uncovering structure in an agent's experience can certainly be useful in reinforcement learning, but by itself does not address the reinforcement learning problem of maximizing a reward signal. We therefore consider reinforcement learning to be a third machine learning paradigm, alongside supervised learning and unsupervised learning and perhaps other paradigms.
 
 
-
-### 1. Introduction to Deep Reinforcement Learning
-
-
-#### 1.1. The RL Framework
+#### Introduction to Deep Reinforcement Learning- The RL Framework
 
 Interpret the Policy
 A policy determines how an agent chooses an action in response to the current state. In other words, it specifies how the agent responds to situations that the environment has presented.
+
+
+### Documentary, Videos 
+
+[AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&t) (Full Documentary)
+
+
+
+
+## Reinforcement Learning
+
+
+### 1. Introduction to Reinforcement Learning
+
+jdska
+
+### 2. Markov Decision Process
+
+dkszl
+
+### 3. Planning by Dynamic Programming
+
+dkszl
+
+### 4. Model-Free Prediction
+
+dkszl
+
+### 5. Model Free Control
+
+dkszl
+
+### 6. Value Function Approximation
+
+dkszl
+
+### 7. Policy Gradient Methods
+
+dkszl
+
+### 8. Integrating Learning and Planning
+
+dkszl
+
+### 9. Exploration and Exploitation
+
+dkszl
+
+### 10. Classic Games
+
+dkszl
