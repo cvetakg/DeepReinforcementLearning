@@ -41,73 +41,73 @@ A policy determines how an agent chooses an action in response to the current st
 
 [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&t) (Full Documentary)
 
-[Introduction to Reinforcement learning with David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+[Introduction to Reinforcement learning with David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) (DeepMind)
 
 
 
 ## 2. Reinforcement Learning - Intro
 
 
-### 1. Introduction to Reinforcement Learning
+### 2.1. Introduction to Reinforcement Learning
 
 jdska
 
-### 2. Markov Decision Process
+### 2.2. Markov Decision Process
 
 dkszl
 
-### 3. Planning by Dynamic Programming
+### 2.3. Planning by Dynamic Programming
 
 dkszl
 
-### 4. Model-Free Prediction
+### 2.4. Model-Free Prediction
 
 dkszl
 
-### 5. Model Free Control
+### 2.5. Model Free Control
 
 dkszl
 
-### 6. Value Function Approximation
+### 2.6. Value Function Approximation
 
 dkszl
 
-### 7. Policy Gradient Methods
+### 2.7. Policy Gradient Methods
 
 dkszl
 
-### 8. Integrating Learning and Planning
+### 2.8. Integrating Learning and Planning
 
 dkszl
 
-### 9. Exploration and Exploitation
+### 2.9. Exploration and Exploitation
 
 dkszl
 
-### 10. Classic Games
+### 2.10. Classic Games
 
 dkszl
 
 
 ## 3. Deep Reinforcement Learning
 
-### 1. Foundations of RL
+### 3.1. Foundations of RL
 (Classical RL problems)
 dsadas
 
-### 2. Value-Based Methods
+### 3.2. Value-Based Methods
 
 #### Navigation
 (Use NN to train an agent that learns intelligent behaviors from sensory data.)
 
-### 3. Policy-Based Methods
+### 3.3. Policy-Based Methods
 
 #### Continuous Control
 (Train a robotic arm to reach target locations, or train a four-legged virtual creature to walk.)
 
 dsadas
 
-### 4. Multi-Agent Reinforcement Learning
+### 3.4. Multi-Agent Reinforcement Learning
 
 #### Collaboration and Competition
 (Train a system of agents to demonstrate collaboration or cooperation on a complex task.)
