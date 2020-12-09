@@ -123,6 +123,32 @@ Communication lats the foundation for multi-agent cooperation, e.g.:
 
 ## Papers
 
-#### 4.1. Reinforcement Learning with Augmented Data, Michael Laskin, Kimin Lee et al., NIPS2020, [link](https://arxiv.org/abs/2004.14990)
+### 4.1. Reinforcement Learning with Augmented Data, Michael Laskin, Kimin Lee et al., NIPS2020, [link](https://arxiv.org/abs/2004.14990)
 
 ![Different types of data augmentations](rl2.PNG)
+
+![](rl3.PNG)
+
+![](rl4.PNG)
+
+#### Data-efficiency when learning from pixels
+
+Simple RL with data aug, outperforms prior state-of-the-art methods on DeepMind Control.
+
+RL with data ugmentation implicitly learns better features:
+1. Data augs help ConvNet focus on important visual features
+2. Random crom/translate make the biggest difference
+
+Specifically, translation augmentation plays the most important role. 
+
+#### Generalization when learning from pixels
+
+Data augmentation significantly improves PPO generalization on ProcGen environments
+
+![](rl5.PNG)
+
+#### Data-efficiency when learning from state
+
+RAD (Reinforcement Learning with Augmented Data) is competetive with more complex state-based RL methods despite its simplicity
+
+#### Takeaway: Simple RL + data augmentation provides a powerful baseline for both pixel and state-based RL
