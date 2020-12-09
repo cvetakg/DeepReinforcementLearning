@@ -119,4 +119,4 @@ Communication lats the foundation for multi-agent cooperation, e.g.:
 - Autonomous Driving
 - Moba Game
 
-![](rl1.png)
+![](rl1.PNG)
