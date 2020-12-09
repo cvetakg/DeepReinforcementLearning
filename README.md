@@ -5,7 +5,7 @@ Author: Jelena Kocic, July 2018.
 # Deep Reinforcement Learning
 
 
-## Introduction
+## 1. Introduction
 
 Reinforcement Learning is a form of learning in which a software agent observes the environment and takes actions to maximize its rewards from the environment.
 
@@ -41,10 +41,11 @@ A policy determines how an agent chooses an action in response to the current st
 
 [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y&t) (Full Documentary)
 
+[Introduction to Reinforcement learning with David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
 
 
 
-## Reinforcement Learning
+## 2. Reinforcement Learning - Intro
 
 
 ### 1. Introduction to Reinforcement Learning
@@ -86,3 +87,27 @@ dkszl
 ### 10. Classic Games
 
 dkszl
+
+
+## 3. Deep Reinforcement Learning
+
+### 1. Foundations of RL
+(Classical RL problems)
+dsadas
+
+### 2. Value-Based Methods
+
+#### Navigation
+(Use NN to train an agent that learns intelligent behaviors from sensory data.)
+
+### 3. Policy-Based Methods
+
+#### Continuous Control
+(Train a robotic arm to reach target locations, or train a four-legged virtual creature to walk.)
+
+dsadas
+
+### 4. Multi-Agent Reinforcement Learning
+
+#### Collaboration and Competition
+(Train a system of agents to demonstrate collaboration or cooperation on a complex task.)
