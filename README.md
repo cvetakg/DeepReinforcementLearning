@@ -123,7 +123,9 @@ Communication lats the foundation for multi-agent cooperation, e.g.:
 
 ## Papers
 
-### 4.1. Reinforcement Learning with Augmented Data, Michael Laskin, Kimin Lee et al., NIPS2020, [link](https://arxiv.org/abs/2004.14990)
+### 4.1. Reinforcement Learning with Augmented Data, [link](https://arxiv.org/abs/2004.14990)
+
+#### Michael Laskin, Kimin Lee et al., NIPS2020
 
 ![Different types of data augmentations](rl2.PNG)
 
