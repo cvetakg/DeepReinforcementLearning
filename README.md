@@ -92,8 +92,7 @@ dkszl
 ## 3. Deep Reinforcement Learning
 
 ### 3.1. Foundations of RL
-(Classical RL problems)
-dsadas
+*(Classical RL problems)*
 
 ### 3.2. Value-Based Methods
 
@@ -105,7 +104,6 @@ dsadas
 #### Continuous Control
 *(Train a robotic arm to reach target locations, or train a four-legged virtual creature to walk.)*
 
-dsadas
 
 ### 3.4. Multi-Agent Reinforcement Learning
 
