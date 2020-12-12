@@ -50,43 +50,39 @@ A policy determines how an agent chooses an action in response to the current st
 
 ### 2.1. Introduction to Reinforcement Learning
 
-jdska
+![](img/rl6.PNG)
 
 ### 2.2. Markov Decision Process
 
-dkszl
+
 
 ### 2.3. Planning by Dynamic Programming
 
-dkszl
+
 
 ### 2.4. Model-Free Prediction
 
-dkszl
 
 ### 2.5. Model Free Control
 
-dkszl
+
 
 ### 2.6. Value Function Approximation
 
-dkszl
 
 ### 2.7. Policy Gradient Methods
 
-dkszl
+
 
 ### 2.8. Integrating Learning and Planning
 
-dkszl
+
 
 ### 2.9. Exploration and Exploitation
 
-dkszl
 
 ### 2.10. Classic Games
 
-dkszl
 
 
 ## 3. Deep Reinforcement Learning
