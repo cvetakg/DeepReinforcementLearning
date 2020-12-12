@@ -52,6 +52,59 @@ A policy determines how an agent chooses an action in response to the current st
 
 ![](img/rl6.PNG)
 
+What makes reinforcement learning different from other machine learning paradigms?
+- There is no supervisor, only a reward signal
+- Feedback is delayed, not instantaneous
+- Time really matters (sequential, non i.i.d data)
+- Agent's actions affect the subsequent data it receives
+
+![](img/rl7.PNG)
+
+History and State
+- The history is the sequence of observations, actions, rewards
+Ht = O1, R1, A1, ..., At-1, Ot , Rt
+- i.e. all observable variables up to time t
+- i.e. the sensorimotor stream of a robot or embodied agent
+- What happens next depends on the history:
+- *The agent selects actions*
+- *The environment selects observations/rewards*
+- State is the information used to determine what happens next
+- Formally, state is a function of the history:
+
+St = f (Ht )
+
+![](img/rl8.PNG)
+![](img/rl9.PNG)
+![](img/rl10.PNG)
+
+An RL agent may include one or more of these components:
+- **Policy**: agent's behaviour function
+- **Value function**: how good is each state and/or action
+- **Model**: agent's representation of the environment
+
+![](img/rl11.PNG)
+![](img/rl12.PNG)
+![](img/rl13.PNG)
+![](img/rl14.PNG)
+![](img/rl15.PNG)
+![](img/rl16.PNG)
+
+**Exploration and Exploitation**
+
+- Reinforcement learning is like trial-and-error learning
+- The agent should discover a good policy
+- From its experiences of the environment
+- Without losing too much reward along the way
+- *Exploration* finds more information about the environment
+- *Exploitation* exploits known information to maximise reward
+- It is usually important to explore as well as exploit
+
+**Prediction**: evaluate the future
+- Given a policy
+
+**Control**: optimise the future
+- Find the best policy
+
 ### 2.2. Markov Decision Process
 
 
