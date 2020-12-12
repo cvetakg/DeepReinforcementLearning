@@ -85,6 +85,7 @@ An RL agent may include one or more of these components:
 ![](img/rl11.PNG)
 ![](img/rl12.PNG)
 ![](img/rl13.PNG)
+
 ![](img/rl14.PNG)
 ![](img/rl15.PNG)
 ![](img/rl16.PNG)
@@ -92,9 +93,7 @@ An RL agent may include one or more of these components:
 **Exploration and Exploitation**
 
 - Reinforcement learning is like trial-and-error learning
-- The agent should discover a good policy
-- From its experiences of the environment
-- Without losing too much reward along the way
+- The agent should discover a good policy from its experiences of the environment without losing too much reward along the way.
 - *Exploration* finds more information about the environment
 - *Exploitation* exploits known information to maximise reward
 - It is usually important to explore as well as exploit
